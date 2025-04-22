@@ -1,5 +1,4 @@
 ### LOON
-- Low Orbit OPGA Neutralizer
 
 ## Purpose
 - This is a tool used to take STDOUT from multiple generator binaries and send output to a target IP & Port
